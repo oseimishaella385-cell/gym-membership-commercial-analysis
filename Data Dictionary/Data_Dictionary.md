@@ -1,4 +1,4 @@
-# Gym Membership & Commercial Performance Analysis — Data Dictionary
+# Gym Membership & Commercial Performance Analysis - Data Dictionary
 
 ## Dataset overview
 
