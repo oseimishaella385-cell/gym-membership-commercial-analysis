@@ -274,8 +274,17 @@ The interactive Power BI report is structured around two business reporting page
 
 The report uses SQL reporting views, relational data modelling and custom DAX measures to support interactive business analysis.
 
-*Dashboard development is currently in progress. Final dashboard screenshots will be added upon completion.*
+## Power BI Dashboard
 
+The two-page interactive Power BI dashboard presents key commercial and operational insights to support management decision-making.
+
+### Membership & Commercial Performance
+
+![Membership Dashboard](Power%20BI/Membership_dashboard.png)
+
+### Engagement & Operational Efficiency
+
+![Operational Dashboard](Power%20BI/Operational_dashboard.png)
 ## 10. Data Limitations and Assumptions
 
 - The analysis uses a sample dataset rather than actual gym performance records.
