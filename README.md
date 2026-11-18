@@ -2,12 +2,20 @@
 
 ## 1. Project Overview
 
+## 1. Project Overview
+
 This project explores gym membership performance, customer engagement and operational efficiency to identify opportunities for commercial growth and improved business performance.
 
-Using MySQL and Power BI, I developed an end-to-end analytical workflow involving data extraction, data quality assessment, cleaning, transformation, advanced SQL analysis, relational data modelling and interactive dashboard development.
+Using MySQL, Power BI and DAX, I developed an end-to-end analytical workflow involving data extraction, data quality assessment, advanced SQL analysis, relational data modelling and interactive dashboard development.
 
-The analysis focuses on translating raw data into actionable insights and recommendations that could support management in making informed business decisions.
+The analysis identified several key commercial and operational opportunities:
 
+- £53,760 in estimated annualised membership income.
+- 12 potential membership upgrade opportunities, representing an illustrative £240 increase in monthly income.
+- 44 low-engagement members who may benefit from targeted engagement initiatives.
+- 72 underutilised class sessions, highlighting opportunities to improve scheduling and resource allocation.
+
+These findings informed targeted business recommendations to support membership growth, customer engagement and operational efficiency.
 ## 2. Business Objectives
 
 The primary objective is to identify opportunities to increase membership income, improve customer engagement and optimise operational efficiency.
