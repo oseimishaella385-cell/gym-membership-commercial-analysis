@@ -2,8 +2,6 @@
 
 ## 1. Project Overview
 
-## 1. Project Overview
-
 This project explores gym membership performance, customer engagement and operational efficiency to identify opportunities for commercial growth and improved business performance.
 
 Using MySQL, Power BI and DAX, I developed an end-to-end analytical workflow involving data extraction, data quality assessment, advanced SQL analysis, relational data modelling and interactive dashboard development.
